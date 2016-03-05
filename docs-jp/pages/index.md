@@ -72,43 +72,43 @@ Foundationを使って、どのようなことができるのでしょうか。�
   </a></div>
 </div>
 
-### Components
+### コンポーネント
 
 <div class="row up-1 medium-up-3 docs-small-index">
   <div class="column">
     <section>
-      <h4>Layout</h4>
+      <h4>レイアウト</h4>
       <ul>
-        <li><a href="grid.html">Grid</a></li>
-        <li><a href="flex-grid.html">Flex Grid</a></li>
-        <li><a href="forms.html">Forms</a></li>
-        <li><a href="visibility.html">Visibility Classes</a></li>
-        <li><a href="float-classes.html">Float Classes</a></li>
-        <li><a href="flexbox.html">Flexbox</a></li>
+        <li><a href="grid.html">グリッド</a></li>
+        <li><a href="flex-grid.html">フレックスグリッド</a></li>
+        <li><a href="forms.html">フォーム</a></li>
+        <li><a href="visibility.html">表示/非表示クラス</a></li>
+        <li><a href="float-classes.html">フロートクラス</a></li>
+        <li><a href="flexbox.html">フレックスボックス</a></li>
       </ul>
     </section>
 
     <section>
-      <h4>Typography</h4>
+      <h4>文字</h4>
       <ul>
-        <li><a href="base-typography.html">Base Styles</a></li>
-        <li><a href="typography-helpers.html">Helper Classes</a></li>
+        <li><a href="base-typography.html">基本の文字スタイル</a></li>
+        <li><a href="typography-helpers.html">文字ヘルパークラス</a></li>
       </ul>
     </section>
 
     <section>
-      <h4>Controls</h4>
+      <h4>制御要素</h4>
       <ul>
-        <li><a href="button.html">Button</a></li>
-        <li><a href="button-group.html">Button Group</a></li>
-        <li><a href="close-button.html">Close Button</a></li>
-        <li><a href="slider.html">Slider</a></li>
-        <li><a href="switch.html">Switch</a></li>
+        <li><a href="button.html">ボタン</a></li>
+        <li><a href="button-group.html">ボタングループ</a></li>
+        <li><a href="close-button.html">閉じるボタン</a></li>
+        <li><a href="slider.html">スライダー</a></li>
+        <li><a href="switch.html">スイッチ</a></li>
       </ul>
     </section>
 
     <section>
-      <h4>Libraries</h4>
+      <h4>ライブラリ</h4>
       <ul>
         <li><a href="motion-ui.html">Motion UI</a></li>
         <li><a href="panini.html">Panini</a></li>
@@ -117,56 +117,56 @@ Foundationを使って、どのようなことができるのでしょうか。�
   </div>
   <div class="column">
     <section>
-      <h4>Navigation</h4>
+      <h4>ナビゲーション</h4>
       <ul>
-        <li><a href="navigation.html">Overview</a></li>
-        <li><a href="menu.html">Menu</a></li>
-        <li><a href="dropdown-menu.html">Dropdown Menu</a></li>
-        <li><a href="drilldown-menu.html">Drilldown Menu</a></li>
-        <li><a href="accordion-menu.html">Accordion Menu</a></li>
-        <li><a href="top-bar.html">Top Bar</a></li>
-        <li><a href="responsive-navigation.html">Responsive Navigation</a></li>
-        <li><a href="magellan.html">Magellan</a></li>
-        <li><a href="pagination.html">Pagination</a></li>
-        <li><a href="breadcrumbs.html">Breadcrumbs</a></li>
+        <li><a href="navigation.html">概要</a></li>
+        <li><a href="menu.html">メニュー</a></li>
+        <li><a href="dropdown-menu.html">ドロップダウンメニュー</a></li>
+        <li><a href="drilldown-menu.html">ドリルダウンメニュー</a></li>
+        <li><a href="accordion-menu.html">アコーディオンメニュー</a></li>
+        <li><a href="top-bar.html">トップバー</a></li>
+        <li><a href="responsive-navigation.html">レスポンシブナビゲーション</a></li>
+        <li><a href="magellan.html">マゼラン</a></li>
+        <li><a href="pagination.html">ページネーション</a></li>
+        <li><a href="breadcrumbs.html">パンくずリスト</a></li>
       </ul>
     </section>
 
     <section>
-      <h4>Containers</h4>
+      <h4>コンテナ要素</h4>
       <ul>
-        <li><a href="accordion.html">Accordion</a></li>
-        <li><a href="callout.html">Callout</a></li>
-        <li><a href="dropdown.html">Dropdown</a></li>
+        <li><a href="accordion.html">アコーディオン</a></li>
+        <li><a href="callout.html">注意表記</a></li>
+        <li><a href="dropdown.html">ドロップダウン</a></li>
         <li><a href="media-object.html">Media Object</a></li>
-        <li><a href="off-canvas.html">Off-canvas</a></li>
-        <li><a href="reveal.html">Reveal</a></li>
-        <li><a href="table.html">Table</a></li>
-        <li><a href="tabs.html">Tabs</a></li>
+        <li><a href="off-canvas.html">オフキャンバス</a></li>
+        <li><a href="reveal.html">Reveal（モーダル）</a></li>
+        <li><a href="table.html">テーブル</a></li>
+        <li><a href="tabs.html">タブ</a></li>
       </ul>
     </section>
   </div>
   <div class="column">
     <section>
-      <h4>Media</h4>
+      <h4>メディア</h4>
       <ul>
-        <li><a href="badge.html">Badge</a></li>
-        <li><a href="flex-video.html">Flex Video</a></li>
-        <li><a href="label.html">Label</a></li>
+        <li><a href="badge.html">バッジ</a></li>
+        <li><a href="flex-video.html">フレックスビデオ</a></li>
+        <li><a href="label.html">ラベル</a></li>
         <li><a href="orbit.html">Orbit</a></li>
-        <li><a href="progress-bar.html">Progress Bar</a></li>
-        <li><a href="thumbnail.html">Thumbnail</a></li>
-        <li><a href="tooltip.html">Tooltip</a></li>
+        <li><a href="progress-bar.html">プログレスバー</a></li>
+        <li><a href="thumbnail.html">サムネイル</a></li>
+        <li><a href="tooltip.html">ツールチップ</a></li>
       </ul>
     </section>
 
     <section>
-      <h4>Plugins</h4>
+      <h4>プラグイン</h4>
       <ul>
         <li><a href="abide.html">Abide</a></li>
-        <li><a href="equalizer.html">Equalizer</a></li>
+        <li><a href="equalizer.html">Equalizer（高さ揃え）</a></li>
         <li><a href="interchange.html">Interchange</a></li>
-        <li><a href="toggler.html">Toggler</a></li>
+        <li><a href="toggler.html">トグラー</a></li>
         <li><a href="sticky.html">Sticky</a></li>
       </ul>
     </section>
