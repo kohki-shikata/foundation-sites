@@ -6,78 +6,69 @@ tags:
   - home
 ---
 
-## Installing
 ## インストール
-
-There are a number of ways to install Foundation for Sites. If you're just getting started, we recommend downloading Yeti Launch, which allows you to quickly set up starter projects with any Foundation framework. You can also install our Node CLI to do the same thing.
 
 Foundation for Sitesのインストールには、いくつかの方法があります。
 もしあなたが初心者ならば、Yeti Launchを使うのがオススメです。これが、もっとも手早くFounationフレームワークに触れることができるやり方です。Node CLIを使っても、同じことが可能です。
 
-It's also possible to manually install Foundation for Sites into your project through npm, Bower, Meteor, or Composer.
-
 また、npmやBower、Meteor、Composerからインストールすることもできます
-
-<a href="installation.html" class="large button">Install Foundation for Sites</a>
 
 <a href="installation.html" class="large button">Foundation for Sites のインストール</a>
 
-### Looking for Foundation 5?
 ### Foundation 5をお探しですか？
-We're still supporting Foundation 5 for those who don't want to take the leap into the future with us. You can view the docs, download a package or visit the Github page.
 
-前のバージョンであるFoundation 5も引き続きサポートしています（未来へ羽ばたくことをためらうみんさんのために…）Foundaion 5のドキュメント、およびパッケージは、
+前のバージョンであるFoundation 5も引き続きサポートしています（未来へ羽ばたくことをためらうみんさんのために…）Foundaion 5のドキュメント、およびパッケージは、Githubからご利用ください。
 
 <div class="button-group">
-  <a href="http://foundation.zurb.com/downloads/foundation-5.5.3.zip" class="button">Download</a>
-  <a href="http://foundation.zurb.com/sites/docs/v/5.5.3" class="button">Docs</a>
+  <a href="http://foundation.zurb.com/downloads/foundation-5.5.3.zip" class="button">Foundation 5.5.3パッケージ</a>
+  <a href="http://foundation.zurb.com/sites/docs/v/5.5.3" class="button">Foundation 5ドキュメント</a>
   <a href="https://github.com/zurb/foundation-sites/tree/V5" class="button">GitHub</a>
 </div>
 
 ---
 
-## What's in the Box?
+## 何ができるの？
 
-Get to know the pieces of Foundation.
+Foundationを使って、どのようなことができるのでしょうか。各部に分けてご紹介します。
 
-### General
+### まず最初に
 
 <div class="row up-1 medium-up-2 large-up-3 docs-big-index">
   <div class="column"><a href="global.html">
-    <strong>Global Styles</strong>
-    <p>Global styles applied by the Foundation framework.</p>
+    <strong>グローバルスタイル</strong>
+    <p>Foundationで利用される全体的な見栄え（スタイル）について</p>
   </a></div>
   <div class="column"><a href="accessibility.html">
-    <strong>Accessibility</strong>
-    <p>An overview of Foundation's accessibility hooks.</p>
+    <strong>アクセシビリティ</strong>
+    <p>Foundationが対応するアクセシビリティフックについて</p>
   </a></div>
   <div class="column"><a href="rtl.html">
-    <strong>Right-to-Left Support</strong>
-    <p>Getting Foundation working with RTL languages.</p>
+    <strong>RTLサポート</strong>
+    <p>FounadtionでRTL言語（右から左に読む言語）の利用方法</p>
   </a></div>
   <div class="column"><a href="sass.html">
     <strong>Sass</strong>
-    <p>Installing and using the Sass version of Foundation.</p>
+    <p>Foundation Sassバージョンの利用と、その利用方法</p>
   </a></div>
   <div class="column"><a href="javascript.html">
     <strong>JavaScript</strong>
-    <p>Initializing and using Foundation's JavaScript plugins.</p>
+    <p>JavaScriptの設定と、その利用方法</p>
   </a></div>
   <div class="column"><a href="media-queries.html">
-    <strong>Media Queries</strong>
-    <p>Working with Foundation's breakpoints.</p>
+    <strong>メディアクエリ</strong>
+    <p>Foundationで用意されたメディアクエリの仕様</p>
   </a></div>
   <div class="column"><a href="flexbox.html">
-    <strong>Flexbox Mode</strong>
-    <p>Supercharge your CSS with flexbox.</p>
+    <strong>Flexboxモード</strong>
+    <p>flexboxでもっと快適に</p>
   </a></div>
   <div class="column"><a href="compatibility.html">
-    <strong>Compatibility</strong>
-    <p>What browsers does Foundation work with?</p>
+    <strong>互換性</strong>
+    <p>Foundationが動作するブラウザについて</p>
   </a></div>
   <div class="column"><a href="kitchen-sink.html">
     <strong>Kitchen Sink</strong>
-    <p>Every component on one page.</p>
+    <p>Foundationが用意するコンポーネントを全部紹介しています</p>
   </a></div>
 </div>
 
